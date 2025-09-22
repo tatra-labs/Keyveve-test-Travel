@@ -1,0 +1,28 @@
+# Backend dependencies
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic
+python-dotenv
+
+# AI and ML dependencies
+langchain
+langchain-openai
+langchain-community
+langchain-core
+openai
+faiss-cpu
+requests
+geopy
+
+# Frontend dependencies
+streamlit
+streamlit-shadcn-ui
+
+# Development dependencies
+pytest
+pytest-asyncio
+httpx
+psutil
